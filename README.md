@@ -1,39 +1,16 @@
-# 💫 Hi 👋, I'm Shubham,
-**Full Stack Developer**
+# 💫 Hi — I’m Shubham 👋
+**Full-stack developer** focused on React + TypeScript and Node (TypeScript). Building production apps, learning DevOps & Next.js.
 
 Email Me 👉 ✉️ **shubhamkhodke558@gmail.com** 😊😊
 
-- 🔭 **I’m currently working on:** I’m currently working on Next.js, DevOps.
+- 🔭 **I’m currently working on:**  Next.js, DevOps.
 - 🌱 **I’m currently learning:** Auth, Tailwind CSS, Drizel ORM, Docker.
-- 💬 **Ask me about:** Code? I guess
+- 💬 **Ask me about:** Web dev, TypeScript, Devlopment DevOps
 - ⚡ **Fun fact:** This dashboard has seen more commits than my group projects ever did.
-
-
-
-
-
 
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhkhodke) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ShubhKhodke) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhamkhodke558@gmail.com) 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
